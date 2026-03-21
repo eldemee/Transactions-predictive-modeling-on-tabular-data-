@@ -1,0 +1,20 @@
+{
+  "classifier": {
+    "best_score_auc": 0.725903166570315,
+    "best_params": {
+      "depth": 8,
+      "iterations": 700,
+      "l2_leaf_reg": 5,
+      "learning_rate": 0.05
+    }
+  },
+  "regressor": {
+    "best_score_neg_mae_log": -1.4568281265453,
+    "best_params": {
+      "depth": 6,
+      "iterations": 1000,
+      "l2_leaf_reg": 3,
+      "learning_rate": 0.03
+    }
+  }
+}
